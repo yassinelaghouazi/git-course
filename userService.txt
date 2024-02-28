@@ -1,3 +1,5 @@
 get the user data ...
 
 process data
+
+create an avater for the user
